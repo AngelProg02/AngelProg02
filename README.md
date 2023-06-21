@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-About me:
+## About me:
 
 - 🔭 Working on personal projects
 - 🌱 Learning GraphQL and vitest + react testing
