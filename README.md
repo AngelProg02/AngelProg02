@@ -1,5 +1,4 @@
 ### Hi there 👋
-### AngelProg02 💻
 
 About me:
 
