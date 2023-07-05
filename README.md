@@ -4,7 +4,7 @@
 
 - 🔭 Working on personal projects
 - 🌱 Learning GraphQL and vitest + react testing
-- 💬 Ask me what you need!, specially: work, doubts, personal projects...
+- 💬 Ask me what you need!
 - 📫 How to reach me:
   - Email:  angelluisvn@gmail.com
   - Linkedin: https://www.linkedin.com/in/%C3%A1ngel-luis-vilchez-naranjo-2131b6220/
