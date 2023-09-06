@@ -2,7 +2,7 @@
 
 ### About me:
 
-- 🌱 Learning Next.js + vitest
+- 🌱 Learning Next.js and vitest
 - 💬 Ask me what you need!
 - 📫 How to reach me:
   - Email:  angelluisvn@gmail.com
